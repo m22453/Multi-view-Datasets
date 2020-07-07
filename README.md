@@ -93,7 +93,7 @@
 ### Multi-view Twitter 
 	http://mlg.ucd.ie/aggregation/index.html
 	
-### Multi-view AMiner:text
+### Multi-view AMiner: text
 	https://www.aminer.cn/data
 	A research paper dataset which is mainly used to study the research social network. 
 	Each paper is associated with its abstract, authors, year, venue, and title.
