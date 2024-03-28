@@ -65,9 +65,10 @@
 	NWO_WT_test.txt
 	NWO_test_classid.txt (labels)
 
-### WebKB: text, two views
+### WebKB: text, three views
 	http://lig-membres.imag.fr/grimal/data.html	
-	The preprocessed views of Texas are the files in folder 'webKB_texas'. 
+ 	You can find WebKB.mat here.
+	
 
 ### Movies dataset: text, two views
 	http://lig-membres.imag.fr/grimal/data.html
