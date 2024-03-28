@@ -94,4 +94,4 @@
 	https://www.aminer.cn/data
 	A research paper dataset which is mainly used to study the research social network. 
 	Each paper is associated with its abstract, authors, year, venue, and title.
- 	You can find AMiner-4v.mat here.
+ 	You can find AMiner-4v.7z here.
